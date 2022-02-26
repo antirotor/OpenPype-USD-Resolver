@@ -1,0 +1,16 @@
+{
+    "Plugins": [
+        {
+            "Info": {
+                "Types": {
+                    "OpenPypeResolver" : {
+                        "bases": ["ArResolver"]
+                    }
+                }
+            },
+            "LibraryPath": "../OpenPypeResolver.dll",
+            "Name": "OpenPypeResolver",
+            "Type": "library"
+        }
+    ]
+}
